@@ -1,0 +1,22 @@
+
+body {
+  background-color: hotpink;
+  opacity: 1;
+}
+p.one{
+  border-style:solid ;
+  border-width:50px ;
+}
+h1 {
+  color: lightskyblue;
+  text-align: center;
+}
+
+
+
+
+p {
+  color: white;
+  font-family: verdana;
+  font-size: 20px;
+}
